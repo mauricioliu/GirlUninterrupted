@@ -1,0 +1,1 @@
+include ':app', ':FriendPickerSample', ':PlacePickerSample', ':HelloFacebookSample', ':facebook', ':RPSSample', ':SwitchUserSample', ':Scrumptious'
